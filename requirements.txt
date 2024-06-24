@@ -1,0 +1,6 @@
+discord.py
+google-cloud-translate
+google-cloud-texttospeech
+google-cloud-speech
+deepl
+python-dotenv
