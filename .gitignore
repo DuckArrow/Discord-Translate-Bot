@@ -1,0 +1,9 @@
+.env
+google-credentials.json
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.vscode
+.idea
+output.mp3
