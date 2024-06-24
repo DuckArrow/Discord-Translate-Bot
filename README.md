@@ -41,7 +41,7 @@ IssuesやPull requestsに関しても全てclaude.aiに転載します。
 
 ## ライセンス
 
-[ここにライセンス情報を記載]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 貢献
 
