@@ -9,7 +9,7 @@
 
 ## 1. Clone this repository<br>このリポジトリをクローンします
 
-    git clone https://github.com/your-username/discord-translator-bot.git
+    git clone https://github.com/DuckArrow/discord-translator-bot.git
 
     cd discord-translator-bot
 
